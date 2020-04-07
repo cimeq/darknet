@@ -4,7 +4,7 @@
 - make
 - wget https://pjreddie.com/media/files/yolov3.weights
 - wget https://pjreddie.com/media/files/yolov3-tiny.weights
-- ./detect_and_crop.sh "<input folder>" "<output folder>"
+- ./detect_and_crop.sh input_folder output_folder
 
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
