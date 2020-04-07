@@ -1,3 +1,11 @@
+- git clone <repo url>
+- cd darknet
+- Edit Makefile and do OPENCV=1 for additionnal features (such as preview)
+- make
+- wget https://pjreddie.com/media/files/yolov3.weights
+- wget https://pjreddie.com/media/files/yolov3-tiny.weights
+- ./detect_and_crop.sh <input folder> <output folder>
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
